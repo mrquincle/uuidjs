@@ -62,7 +62,7 @@ The result will astonish you... :-)
 > A: Yes
 
 
-* Q: Will the UUID fit it a 128-bit register?
+* Q: Will the UUID fit in a 128-bit register?
 
 > A: Depends on how much you guys like it
 
