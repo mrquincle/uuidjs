@@ -1,9 +1,13 @@
 {
-  "name": "uuidjs",
-  "description": "uuid app",
-  "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "express": "3.x"
-  }
+	"name": "uuidjs",
+	"description": "uuid app",
+	"version": "0.0.1",
+	"private": true,
+	"main": "app.js",
+	"dependencies": {
+		"express": "3.x"
+	}
+	"engines": {
+		"node": "0.10.x"
+	}
 }
