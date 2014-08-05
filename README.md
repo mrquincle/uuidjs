@@ -12,7 +12,7 @@ Regarding scalability... The server is quite slow and will not be made faster. I
 
 There is a working demo at:
 
-[uuid.herokuapp.com](uuid.herokuapp.com)
+[uuid.herokuapp.com](http://uuid.herokuapp.com/uuid)
 
 And of course you should actually only use the one REST call that matters.
 
