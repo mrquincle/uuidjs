@@ -69,7 +69,7 @@ The result will astonish you... :-)
 
 * Q: Are you a genius?
 
-> A: No, you can do this as well
+> A: No, you can do this as well, try!
 
 
 * Q: What did you use for this?
@@ -87,4 +87,4 @@ The result will astonish you... :-)
 * Author: Anne van Rossum
 * License: LGPLv3
 * Copyrights: me
-
+* Year: 2014
