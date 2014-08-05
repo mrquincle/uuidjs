@@ -4,7 +4,7 @@ Server that returns an UUID, based on ExpressJS.
 
 ## Why?!
 
-There are many servers out there doing way to many complex things. Sometimes the only thing you need is a unique number for your system. This is a server that gives you a unique number. You are allowed to do with it whatever you want, but it will be a unique number that you will never get again from this server.
+There are many servers out there doing way too many complex things. Sometimes the only thing you need is a unique number for your system. This is a server that gives you such a unique number. You are allowed to do with it whatever you want, but it will be a unique number that you will never get again from this server.
 
 Regarding scalability... The server is quite slow and will not be made faster. If you need to have fast unique numbers you will have to roll your own solution. Regarding the scalability of the number of unique numbers we can send out, the answer will be very pleasing. We have an infinite number of UUIDs that are ready waiting for you to pick them up.
 
