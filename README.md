@@ -25,38 +25,50 @@ The result will astonish you... :-)
 * Q: I lost my number, can you get it for me?
 * A: No
 
+
 * Q: I want a specific number, can I get it?
 * A: Try
+
 
 * Q: Are you sure the same number is not handed out twice?
 * A: Yes, if the semaphore in findAndModify in mongo is implemented correctly by the developers
 
+
 * Q: How many UUIDs can I get?
 * A: As many as you want
+
 
 * Q: Is this better than bitcoin?
 * A: Huh?
 
+
 * Q: Will you get rich?
 * A: Yes, if you give me money, and especially if you give a lot of money
+
 
 * Q: What's the uptime of your system?
 * A: On the moment this is an AND operation on the uptime of Heroku and the uptime of MongoLab that I am not qualified to perform
 
+
 * Q: Will the UUID be positive?
 * A: Yes
+
 
 * Q: Will the UUID fit it a 128-bit register?
 * A: Depends on how much you guys like it
 
+
 * Q: Are you a genius?
 * A: No, you can do this as well
+
 
 * Q: What did you use for this?
 * A: Check the code on [https://github.com/mrquincle/uuidjs](https://github.com/mrquincle/uuidjs)
 
+
 * Q: Shouldn't you go to bed?
 * A: Yes
+
 
 ## Copyrights
 
